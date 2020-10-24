@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192.98737mm"
+   height="42.52232mm"
+   viewBox="0 0 192.98737 42.52232"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="hetherington research.svg">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1334">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1324" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1326" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur1328" />
+      <feOffset
+         dx="-0.5"
+         dy="0.5"
+         result="offset"
+         id="feOffset1330" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1332" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3820799"
+     inkscape:cx="363.7527"
+     inkscape:cy="94.271005"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.019237,-104.54819)">
+    <rect
+       style="fill:#e8e8e8;fill-opacity:1;stroke:none;stroke-width:0.2534"
+       id="rect1340"
+       width="176.4292"
+       height="43.193256"
+       x="42.248055"
+       y="106.1978"
+       transform="matrix(1,0,-0.17557154,0.98446667,0,0)" />
+    <ellipse
+       style="fill:#adadad;fill-opacity:1;stroke:none;stroke-width:0.196222"
+       id="path1336"
+       cx="41.589909"
+       cy="125.80939"
+       rx="16.719076"
+       ry="17.103422" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1284px;line-height:1.25;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:0px;word-spacing:0px;fill:#d66b57;fill-opacity:1;stroke:none;stroke-width:0.528212;filter:url(#filter1334)"
+       id="text835"
+       transform="matrix(1,0,-0.17632698,1,-6.8791667,2.1166667)"
+       aria-label="HETHERINGTON RESEARCH">
+      <path
+         id="path865"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 70.800295,124.93218 v 0 -8.45136 h 2.11284 v 8.45136 h 2.11284 V 110.1423 h -2.11284 v 4.22568 h -2.11284 v -4.22568 h -2.11284 v 14.78988 z" />
+      <path
+         id="path867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 76.035819,124.93218 v 0 -14.78988 h 6.33852 v 2.04946 h -4.22568 v 2.11284 h 2.11284 v 2.11284 h -2.11284 v 6.4019 h 4.22568 v 2.11284 z" />
+      <path
+         id="path869"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 87.609863,124.93218 v 0 -12.67704 h 2.11284 v -2.11284 h -6.33852 v 2.11284 h 2.11284 v 12.67704 z" />
+      <path
+         id="path871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 92.845387,124.93218 v 0 -8.45136 h 2.11284 v 8.45136 h 2.11284 V 110.1423 h -2.11284 v 4.22568 h -2.11284 v -4.22568 h -2.11284 v 14.78988 z" />
+      <path
+         id="path873"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 98.08091,124.93218 v 0 -14.78988 h 6.33852 v 2.04946 h -4.22568 v 2.11284 h 2.11284 v 2.11284 h -2.11284 v 6.4019 h 4.22568 v 2.11284 z" />
+      <path
+         id="path875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 110.69024,110.1423 v 0 q 0.46483,0 0.76063,0.31693 0.31692,0.2958 0.31692,0.76062 v 3.14813 q 0,0.31693 -0.21128,0.57047 l -0.31693,0.35918 0.38031,0.52821 q 0.1479,0.21129 0.1479,0.48595 v 8.62039 h -2.11284 v -8.34572 h -2.11284 v 8.34572 h -2.11284 V 110.1423 Z m -1.03529,4.0144 v 0 -2.11284 h -2.11284 v 2.11284 z" />
+      <path
+         id="path877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 119.09503,122.81934 v 0 h -2.09171 V 112.2974 h 2.11284 v -2.11284 h -6.33852 v 2.11284 h 2.11284 v 10.52194 h -2.11284 v 2.11284 h 6.31739 z" />
+      <path
+         id="path879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 122.23884,124.93218 v 0 -10.5642 l 2.11284,4.22568 v 6.33852 h 2.11284 V 110.1423 h -2.11284 v 4.22568 l -2.11284,-4.22568 H 120.126 v 14.78988 z" />
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         id="path881"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 133.81289,114.36798 v 0 h -2.11284 l 0,8.45136 h -2.11284 v -10.5642 h 4.22568 v -2.11284 h -6.33852 v 14.78988 c 3.0293,0.0309 4.27443,0.0238 6.16225,0.003 z" />
+      <path
+         id="path883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 139.04841,124.93218 v 0 -12.67704 h 2.11284 v -2.11284 h -6.33852 v 2.11284 h 2.11284 v 12.67704 z" />
+      <path
+         id="path885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 142.17109,111.21985 v 0 q 0,-0.46482 0.2958,-0.76062 0.31692,-0.31693 0.78175,-0.31693 h 4.18342 q 0.46483,0 0.76062,0.31693 0.31693,0.2958 0.31693,0.76062 v 12.63478 q 0,0.46483 -0.31693,0.78175 -0.29579,0.2958 -0.76062,0.2958 h -4.18342 q -0.46483,0 -0.78175,-0.2958 -0.2958,-0.31692 -0.2958,-0.78175 z m 2.11284,11.59949 v 0 h 2.11284 v -10.5642 h -2.11284 z" />
+      <path
+         id="path887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 151.6323,124.93218 v 0 -10.5642 l 2.11284,4.22568 v 6.33852 h 2.11284 V 110.1423 h -2.11284 v 4.22568 l -2.11284,-4.22568 h -2.11284 v 14.78988 z" />
+      <path
+         id="path889"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 167.37257,110.1423 v 0 q 0.46482,0 0.76062,0.31693 0.31693,0.2958 0.31693,0.76062 v 3.14813 q 0,0.31693 -0.21129,0.57047 l -0.31692,0.35918 0.38031,0.52821 q 0.1479,0.21129 0.1479,0.48595 v 8.62039 h -2.11284 v -8.34572 h -2.11284 v 8.34572 H 162.1116 V 110.1423 Z m -1.03529,4.0144 v 0 -2.11284 h -2.11284 v 2.11284 z" />
+      <path
+         id="path891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 169.45996,124.93218 v 0 -14.78988 h 6.33852 v 2.04946 h -4.22568 v 2.11284 h 2.11284 v 2.11284 h -2.11284 v 6.4019 h 4.22568 v 2.11284 z" />
+      <path
+         id="path893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 176.80833,124.93218 v 0 -6.35965 h 2.11284 v 4.24681 h 2.11284 v -6.35965 h -4.22568 v -6.31739 h 6.33852 v 2.13397 l -4.22568,-0.0211 v 2.11284 l 4.22568,-0.0211 -0.0423,10.58533 z" />
+      <path
+         id="path895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 184.15669,124.93218 v 0 -14.78988 h 6.33852 v 2.04946 h -4.22568 v 2.11284 h 2.11284 v 2.11284 h -2.11284 v 6.4019 h 4.22568 v 2.11284 z" />
+      <path
+         id="path897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 191.50505,124.93218 v 0 -14.78988 h 6.33852 v 14.78988 h -2.11284 v -8.45136 h -2.11284 v 8.45136 z m 4.22568,-12.97284 v 0 h -2.11284 v 2.11284 h 2.11284 z" />
+      <path
+         id="path899"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 204.11438,110.1423 v 0 q 0.46483,0 0.76062,0.31693 0.31693,0.2958 0.31693,0.76062 v 3.14813 q 0,0.31693 -0.21128,0.57047 l -0.31693,0.35918 0.38031,0.52821 q 0.1479,0.21129 0.1479,0.48595 v 8.62039 h -2.11284 v -8.34572 h -2.11284 v 8.34572 h -2.11284 V 110.1423 Z m -1.03529,4.0144 v 0 -2.11284 h -2.11284 v 2.11284 z" />
+      <path
+         id="path901"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 212.5403,120.7065 v 0 h -2.11284 v 2.11284 h -2.11284 v -10.5642 h 2.11284 v 2.11284 h 2.11284 v -4.22568 h -6.33852 v 14.78988 h 6.33852 z" />
+      <path
+         id="path903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Steudel Mono Display';-inkscape-font-specification:'Steudel Mono Display';letter-spacing:-1.11125px;fill:#d66b57;fill-opacity:1;stroke-width:0.528212"
+         d="m 215.66298,124.93218 v 0 -8.45136 h 2.11284 v 8.45136 h 2.11284 V 110.1423 h -2.11284 v 4.22568 h -2.11284 v -4.22568 h -2.11284 v 14.78988 z" />
+    </g>
+    <rect
+       style="fill:#adadad;fill-opacity:1;stroke:none;stroke-width:0.251921"
+       id="rect1338"
+       width="139.85118"
+       height="2.6866496"
+       x="73.31942"
+       y="133.56488"
+       transform="matrix(1,0,-0.17364818,0.98480775,0,0)" />
+  </g>
+</svg>
